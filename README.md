@@ -1,1 +1,1 @@
-# FAKAI_ERP
+# 52hz
